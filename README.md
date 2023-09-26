@@ -1,3 +1,3 @@
 # dlcode
 * Enjoy prends
-* Code chesko pandaga chesko 
+* Clone chesko pandaga chesko 
